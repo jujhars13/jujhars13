@@ -1,9 +1,8 @@
 
 <h1 align="center">
+  <a href="https://jujhar.com"><img src="https://raw.githubusercontent.com/jujhars13/jujhars13/master/app/jujhar.png" alt="me" width="200"></a>
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
-  <br>
-  Markdownify
+  Jujhar Singh
   <br>
 </h1>
 
