@@ -7,9 +7,8 @@
 </h1>
 
 - 🔭 I’m currently working on: Myself
-- 🌱 I’m currently learning: Management stuff
 - 🤔 I’m looking for help with: Evolving
-- 💬 Ask me about: DevSecOps, Containers, Linux, Node, Teams
+- 💬 Ask me about: DevSecOps, Containers, Linux, Node.js, Teams
 - 📫 How to reach me: LinkedIn, Github
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I created my first website when I was 11.
+- ⚡ Fun fact: I published my first website on GeoCities using notepad back when I was 11.
