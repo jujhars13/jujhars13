@@ -11,4 +11,4 @@
 - 💬 Ask me about: DevSecOps, Containers, Linux, Node.js, Humans
 - 📫 How to reach me: LinkedIn, Github
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I published my first website on GeoCities using Windows Notepad when I was 11 years old.
+- ⚡ Fun fact: I published my first website on GeoCities using Windows 3.11 Notepad when I was 11 years old
